@@ -44,7 +44,8 @@
         $num_r++;
     }
     echo "</table>";
-
+    
+    ?>
 
 </body>
 </html>
